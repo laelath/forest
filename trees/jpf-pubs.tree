@@ -1,0 +1,33 @@
+\title{Publications}
+\author{justinefrank}
+\taxon{Bibliography}
+
+\put\transclude/numbered{false}
+
+% TODO: change with queries
+\subtree{
+  \meta{author}{false}
+  \title{Accepted papers}
+
+  \put\transclude/metadata{true}
+  \put\transclude/expanded{false}
+
+  \transclude{frank-quiring-lampropoulos-2024}
+  \transclude{geller-frank-bowman-2024}
+}
+
+% TODO: uncomment when i have workshop presentations
+%\subtree{
+% \title{Presentations}
+% \query\datalog{
+%  ?X -: {\rel/my-references ?X} {\rel/tags ?X '{workshop}}
+% }
+%}
+
+% TODO: uncomment when i have seminar talks
+%\subtree{
+% \title{Seminar talks}
+% \query\datalog{
+%  ?X -: {\rel/my-references ?X} {\rel/tags ?X '{seminar}}
+% }
+%}

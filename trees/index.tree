@@ -1,0 +1,20 @@
+\title{[[justinefrank]]}
+\author{justinefrank}
+\meta{author}{false}
+
+\p{
+  Hi! I am Justine Frank, I am currently in my 4th year as a Ph.D. student in the [PLUM Lab](https://plum-umd.github.io/) at the [University of Maryland College Park](https://umd.edu/).
+  I am trying to find better ways to prove the correctness of programming language implementations, especially type systems and compilers.
+  Working with [Milijana Surbatovich](https://msurbatovich.github.io/) and [Leonidas Lampropoulos](https://lemonidas.github.io/).
+}
+
+\p{My CV can be found [here](cv.pdf).}
+
+\p{
+  In my free time I like to rock climb, bike and occasionally build mechanical keyboards.
+}
+
+\put\transclude/numbered{false}
+
+\transclude{jpf-contact}
+\transclude{jpf-pubs}
