@@ -2,10 +2,14 @@
 \taxon{Person}
 \meta{external}{https://laelath.github.io/}
 \meta{institution}{[[plum]]}
-\meta{github}{laelath}
 \meta{orcid}{0009-0007-7024-7331}
 \meta{position}{PhD Student}
+
 \p{
   PhD Student in Programming Languages and Formal Verification in my 4th year at the University of Maryland College Park.
   Working with [[leonidaslampropoulos]] and [[milijanasurbatovich]].
+}
+
+\p{
+  In 2020 I obtained a bachelor of science in computer science from the [[ubc]], and worked with the [SPL](spl) until starting with [PLUM](plum) in fall 2021.
 }
