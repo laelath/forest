@@ -1,0 +1,30 @@
+\title{Attendances}
+\author{justinefrank}
+
+\put\transclude/metadata{true}
+
+\subtree{
+  \title{Major Conferences}
+  \put\transclude/expanded{false}
+  \transclude{popl-2024}
+  \transclude{icfp-2023}
+  \transclude{popl-2023}
+}
+
+\subtree{
+  \title{Summer Schools}
+  \put\transclude/expanded{false}
+  \transclude{oplss-2024}
+  \transclude{oplss-2022}
+}
+
+\subtree{
+  \title{Regional Conferences}
+  \put\transclude/expanded{false}
+  \transclude{njpls-05-2025}
+  \transclude{njpls-12-2024}
+  \transclude{njpls-05-2024}
+  \transclude{njpls-11-2023}
+  \transclude{njpls-05-2023}
+  \transclude{njpls-10-2022}
+}

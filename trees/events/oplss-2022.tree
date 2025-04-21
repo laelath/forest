@@ -1,0 +1,7 @@
+\import{conf-name-macros}
+\title{\conf-name{OPLSS ’22}{Oregon Programming Languages Summer School 2022}}
+%\taxon{what is it}
+\date{2022-06}
+\meta{external}{https://www.cs.uoregon.edu/research/summerschool/summer22/}
+
+\p{The Oregon Programming Languages Summer School has been devoted for twenty years to teaching the principles of programming languages to students and professionals. Although the topics vary from year to year, the unifying theme is the importance of fundamental theory to the design and implementation of programming languages, the development of program verification tools, and the application of advanced programming languages to practice. The summer school attracts participants from around the world, and is often able to subsidize the participation of qualified attendees with limited resources. More than a thousand participants have attended OPLSS since its inception in 2002. The summer school is sponsored by the [National Science Foundation](https://www.nsf.gov/), and by generous grants from numerous companies over the years.}
