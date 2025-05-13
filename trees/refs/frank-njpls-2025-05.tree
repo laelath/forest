@@ -1,0 +1,13 @@
+\title{Indistinguishability Reasoning for Interaction Trees}
+\date{2025-05-09}
+\taxon{Reference}
+
+\author{justinefrank}
+\tag{seminar}
+
+\meta{slides}{[[njpls-tutt-slides.pdf]]}
+\meta{venue}{[[njpls-05-2025]]}
+
+\p{Interaction trees are an increasingly popular way to define and reason about the semantics of non-terminating, effectful, first-order programming languages using layered monadic interpreters. They have a rich equational theory for reasoning up to strong- or weak-bisimulation. However, for some applications, like crash recovery systems, bisimulation is too strong; the desired property is not that two computations behave the same, but that they will be indistinguishable---they will never be observed behaving differently.}
+
+\p{To enable reasoning about indistinguishability, we develop tolerance-up-to-taus (tutt); an extension of equivalence-up-to-taus (eutt) that allows removing an infinite number of taus from either side. We draw out the insight that the tutt relation thus has a nice property of being a middle point in between termination-sensitive and termination-insensitive reasoning, permitting reasoning about computations that do not terminate yet continuously perform observable effects. A key challenge of working with tutt is that, unlike eutt, this relation does not admit transitivity; however, we show that it is compatible with existing ITree "up-to" reasoning, allowing rewriting by bisimulation equivalences while proving tutt, and supports reasoning up-to bind. Finally, we showcase the usefulness of tutt by demonstrating a proof of indistinguishability of crash-recovering executions of a program.}

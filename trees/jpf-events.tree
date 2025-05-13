@@ -4,7 +4,7 @@
 \put\transclude/metadata{true}
 
 \subtree{
-  \title{Major Conferences}
+  \title{Conferences}
   \put\transclude/expanded{false}
   \transclude{popl-2024}
   \transclude{icfp-2023}
@@ -19,7 +19,7 @@
 }
 
 \subtree{
-  \title{Regional Conferences}
+  \title{Seminars}
   \put\transclude/expanded{false}
   \transclude{njpls-05-2025}
   \transclude{njpls-12-2024}

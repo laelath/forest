@@ -17,12 +17,19 @@
 }
 
 % TODO: uncomment when i have workshop presentations
-%\subtree{
-% \title{Presentations}
+\subtree{
+  \meta{author}{false}
+  \title{Presentations}
+
+  \put\transclude/metadata{true}
+  \put\transclude/expanded{false}
+
+  \transclude{frank-njpls-2025-05}
+
 % \query\datalog{
 %  ?X -: {\rel/my-references ?X} {\rel/tags ?X '{workshop}}
 % }
-%}
+}
 
 % TODO: uncomment when i have seminar talks
 %\subtree{
