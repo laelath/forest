@@ -21,6 +21,7 @@
 \subtree{
   \title{Seminars}
   \put\transclude/expanded{false}
+  \transclude{njpls-12-2025}
   \transclude{njpls-05-2025}
   \transclude{njpls-12-2024}
   \transclude{njpls-05-2024}
