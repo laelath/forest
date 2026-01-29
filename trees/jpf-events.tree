@@ -2,6 +2,7 @@
 \author{justinefrank}
 
 \put\transclude/metadata{true}
+\put\transclude/numbered{false}
 
 \subtree{
   \title{Conferences}
